@@ -18,6 +18,26 @@
 This project is about e-Learning Platform. This is clone of existing platform Newton School with redesigned UI/UX.
 The purpose of E-Learning System is to automate the existing manual system by the help of full fledged computer software, fullfilling the rerquirement so that the valuable data can be stored for longer period of time and more accessibility of education.
 
+
+
+### Courses
+![Courses](https://raw.githubusercontent.com/jamimmehdi/HTML-Base-Tags-Meta-Tags-Body-Div-Span-P-tag---Post-Class---HTML---CSS-Mini-Project---s7zj5fn/main/screenshots/courses.png?token=GHSAT0AAAAAABRBDBQDZQTPO3A4PJ65RISSYTISJ6Q)
+
+
+
+### Timeline
+![Timeline](https://raw.githubusercontent.com/jamimmehdi/HTML-Base-Tags-Meta-Tags-Body-Div-Span-P-tag---Post-Class---HTML---CSS-Mini-Project---s7zj5fn/main/screenshots/timeline.png?token=GHSAT0AAAAAABRBDBQDVGH7NS2TROBF6KY2YTISKWQ)
+
+
+
+### Leaderboard
+![Leaderboard](https://raw.githubusercontent.com/jamimmehdi/HTML-Base-Tags-Meta-Tags-Body-Div-Span-P-tag---Post-Class---HTML---CSS-Mini-Project---s7zj5fn/main/screenshots/leaderboard.png?token=GHSAT0AAAAAABRBDBQDSGZ4ZG53G7FE6UN2YTISLEA)
+
+
+
+### Peers
+![Peers](https://raw.githubusercontent.com/jamimmehdi/HTML-Base-Tags-Meta-Tags-Body-Div-Span-P-tag---Post-Class---HTML---CSS-Mini-Project---s7zj5fn/main/screenshots/peers.png?token=GHSAT0AAAAAABRBDBQCAOQMTAKRF4RTJW7UYTISLQQ)
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
