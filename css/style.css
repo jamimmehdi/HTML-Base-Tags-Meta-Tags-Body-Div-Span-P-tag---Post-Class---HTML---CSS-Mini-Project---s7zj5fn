@@ -263,6 +263,7 @@ img {
     background-color: #f4f7ff;
     width: 60%;
     height: 2000px;
+    overflow-x: hidden;
 }
 
 .right-panel-wrapper {
