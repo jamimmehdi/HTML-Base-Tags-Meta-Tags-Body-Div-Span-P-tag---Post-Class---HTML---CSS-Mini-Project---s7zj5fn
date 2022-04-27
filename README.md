@@ -47,7 +47,6 @@ Project Link: [E-Learning Platform- Newton School Clone](https://github.com/jami
 ## Acknowledgments
 
 * [w3schools](https://www.w3schools.com/)
-* [GitHub Pages](https://pages.github.com)
 * [Font Awesome](https://fontawesome.com)
 * [Bootstrap Icons](https://react-icons.github.io/react-icons/search)
 
