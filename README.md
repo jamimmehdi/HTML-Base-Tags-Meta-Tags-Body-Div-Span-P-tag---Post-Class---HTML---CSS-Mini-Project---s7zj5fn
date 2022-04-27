@@ -38,8 +38,6 @@ The purpose of E-Learning System is to automate the existing manual system by th
 ### Peers
 ![Peers](https://raw.githubusercontent.com/jamimmehdi/e-Learning-Newton-School-Clone-mini-project/main/screenshots/peers.png)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 ### Built With
@@ -49,17 +47,12 @@ The purpose of E-Learning System is to automate the existing manual system by th
 * [Bootstrap Icons](https://icons.getbootstrap.com/)
 
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
 <!-- CONTACT -->
 ## Contact
 
 Your Name - [@mehdi_jamim](https://twitter.com/mehdi_jamim) - jamimmehdi@gmail.com
 
 Project Link: [E-Learning Platform- Newton School Clone](https://github.com/jamimmehdi/HTML-Base-Tags-Meta-Tags-Body-Div-Span-P-tag---Post-Class---HTML---CSS-Mini-Project---s7zj5fn/new/main?readme=1)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
