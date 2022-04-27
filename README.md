@@ -21,22 +21,22 @@ The purpose of E-Learning System is to automate the existing manual system by th
 
 
 ### Courses
-![Courses](https://raw.githubusercontent.com/jamimmehdi/HTML-Base-Tags-Meta-Tags-Body-Div-Span-P-tag---Post-Class---HTML---CSS-Mini-Project---s7zj5fn/main/screenshots/courses.png?token=GHSAT0AAAAAABRBDBQDZQTPO3A4PJ65RISSYTISJ6Q)
+![Courses](https://raw.githubusercontent.com/jamimmehdi/e-Learning-Newton-School-Clone-mini-project/main/screenshots/courses.png)
 
 
 
 ### Timeline
-![Timeline](https://raw.githubusercontent.com/jamimmehdi/HTML-Base-Tags-Meta-Tags-Body-Div-Span-P-tag---Post-Class---HTML---CSS-Mini-Project---s7zj5fn/main/screenshots/timeline.png?token=GHSAT0AAAAAABRBDBQDVGH7NS2TROBF6KY2YTISKWQ)
+![Timeline](https://raw.githubusercontent.com/jamimmehdi/e-Learning-Newton-School-Clone-mini-project/main/screenshots/timeline.png)
 
 
 
 ### Leaderboard
-![Leaderboard](https://raw.githubusercontent.com/jamimmehdi/HTML-Base-Tags-Meta-Tags-Body-Div-Span-P-tag---Post-Class---HTML---CSS-Mini-Project---s7zj5fn/main/screenshots/leaderboard.png?token=GHSAT0AAAAAABRBDBQDSGZ4ZG53G7FE6UN2YTISLEA)
+![Leaderboard](https://raw.githubusercontent.com/jamimmehdi/e-Learning-Newton-School-Clone-mini-project/main/screenshots/leaderboard.png)
 
 
 
 ### Peers
-![Peers](https://raw.githubusercontent.com/jamimmehdi/HTML-Base-Tags-Meta-Tags-Body-Div-Span-P-tag---Post-Class---HTML---CSS-Mini-Project---s7zj5fn/main/screenshots/peers.png?token=GHSAT0AAAAAABRBDBQCAOQMTAKRF4RTJW7UYTISLQQ)
+![Peers](https://raw.githubusercontent.com/jamimmehdi/e-Learning-Newton-School-Clone-mini-project/main/screenshots/peers.png)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
