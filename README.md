@@ -18,7 +18,25 @@
 This project is about e-Learning Platform. This is clone of existing platform Newton School with redesigned UI/UX.
 The purpose of E-Learning System is to automate the existing manual system by the help of full fledged computer software, fullfilling the rerquirement so that the valuable data can be stored for longer period of time and more accessibility of education.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+### Courses
+![Courses](https://raw.githubusercontent.com/jamimmehdi/e-Learning-Newton-School-Clone-mini-project/main/screenshots/courses.png)
+
+
+
+### Timeline
+![Timeline](https://raw.githubusercontent.com/jamimmehdi/e-Learning-Newton-School-Clone-mini-project/main/screenshots/timeline.png)
+
+
+
+### Leaderboard
+![Leaderboard](https://raw.githubusercontent.com/jamimmehdi/e-Learning-Newton-School-Clone-mini-project/main/screenshots/leaderboard.png)
+
+
+
+### Peers
+![Peers](https://raw.githubusercontent.com/jamimmehdi/e-Learning-Newton-School-Clone-mini-project/main/screenshots/peers.png)
 
 
 
@@ -29,17 +47,12 @@ The purpose of E-Learning System is to automate the existing manual system by th
 * [Bootstrap Icons](https://icons.getbootstrap.com/)
 
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
 <!-- CONTACT -->
 ## Contact
 
 Your Name - [@mehdi_jamim](https://twitter.com/mehdi_jamim) - jamimmehdi@gmail.com
 
 Project Link: [E-Learning Platform- Newton School Clone](https://github.com/jamimmehdi/HTML-Base-Tags-Meta-Tags-Body-Div-Span-P-tag---Post-Class---HTML---CSS-Mini-Project---s7zj5fn/new/main?readme=1)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
